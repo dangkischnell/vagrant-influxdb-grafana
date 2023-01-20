@@ -11,7 +11,7 @@ $time_interval = "30s"
 $datasource_name = "InfluxDB-mydb"
 
 ##Version
-$chronograf_version = "chronograf_1.6.2_amd64.deb"
+$chronograf_version = "chronograf_1.9_amd64.deb"
 
 
 ## Scripts
